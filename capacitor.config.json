@@ -1,0 +1,9 @@
+{
+  "appId": "com.bolhisab.app",
+  "appName": "BolHisab",
+  "webDir": "out",
+  "server": {
+    "url": "https://bolhisab.netlify.app/dashboard",
+    "androidScheme": "https"
+  }
+}

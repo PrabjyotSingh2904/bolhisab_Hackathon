@@ -1,5 +1,6 @@
 # BolHisab — हिसाब अब बोलकर
 
+
 Voice-first khata + GST invoices + payment chasing for India's small manufacturers.
 **Bolo, suno, confirm karo — hisab ho gaya.**
 
